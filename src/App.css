@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.caddy{
+  position: absolute;
+  right: 20px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

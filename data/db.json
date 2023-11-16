@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "ThinkPad",
+      "price": "20099",
+      "checked": "on"
+    },
+    {
+      "id": 2,
+      "name": "google",
+      "price": "$15",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Leather Messenger Bag",
+      "price": "$80",
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Gourmet Chocolate Box",
+      "price": "$30",
+      "checked": true
+    },
+    {
+      "id": 6,
+      "name": "Wireless Bluetooth Earbuds",
+      "price": "$50",
+      "checked": false
+    },
+    {
+      "id": 7,
+      "name": "Artisanal Scented Candle",
+      "price": "$18",
+      "checked": false
+    },
+    {
+      "id": 8,
+      "name": "Fitness Tracker Bracelet",
+      "price": "$60",
+      "checked": true
+    },
+    {
+      "name": "Lenovo thinkpad",
+      "price": "19000",
+      "checked": "on",
+      "id": 9
+    },
+    {
+      "name": "Dell",
+      "price": "1299",
+      "checked": false,
+      "id": 10
+    },
+    {
+      "name": "Redmi 9c",
+      "price": "2000",
+      "checked": "on",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Elegant ",
+      "price": "$12288"
+    }
+  ]
+}
